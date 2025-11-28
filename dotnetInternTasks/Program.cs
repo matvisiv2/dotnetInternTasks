@@ -5,6 +5,7 @@ using Task04SumOfNumbersInRange;
 using Task05ShowInfoUsingClassBook;
 using Task06MinNumberOfArray;
 using Task07Calculator;
+using Task08ShowInfoUsingClassStudent;
 
 namespace dotnetInternTasks
 {
@@ -79,7 +80,7 @@ namespace dotnetInternTasks
                         TaskCycle(Calculator.Run);
                         break;
                     case '8':
-                        Print(FitTitle("Task08: ClassStudent"));
+                        Print(FitTitle("Task08: ShowInfoUsingClassStudent"));
                         Print("Tip: enter '1' - to show student list, '2 filter' - to filter, '3' - show the oldest of students.\n");
                         Print(
                             "Tip: 'filter' must be like '20', '>20', '<20':\n" +
@@ -87,7 +88,7 @@ namespace dotnetInternTasks
                             "  '<20' - means students who younger than 20);\n" +
                             "  '>20' - means students who older than 20).\n"
                         );
-                        //TaskCycle(Task08ClassStudent);
+                        TaskCycle(ShowInfoUsingClassStudent.Run);
                         break;
                     case 'c':
                         Console.Clear();
