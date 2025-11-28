@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36705.20 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetInternTasks", "dotnetInternTasks\dotnetInternTasks.csproj", "{8388D36C-2949-4DB6-AD2A-CAE973F6F1FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task01TemperatureConverter", "Task01TemperatureConverter\Task01TemperatureConverter.csproj", "{64DA8536-3EA4-411C-B9FE-E7B8BC500C2C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{8388D36C-2949-4DB6-AD2A-CAE973F6F1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8388D36C-2949-4DB6-AD2A-CAE973F6F1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8388D36C-2949-4DB6-AD2A-CAE973F6F1FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64DA8536-3EA4-411C-B9FE-E7B8BC500C2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64DA8536-3EA4-411C-B9FE-E7B8BC500C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64DA8536-3EA4-411C-B9FE-E7B8BC500C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64DA8536-3EA4-411C-B9FE-E7B8BC500C2C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

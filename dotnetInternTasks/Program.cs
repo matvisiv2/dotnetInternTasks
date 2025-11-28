@@ -1,4 +1,6 @@
-﻿namespace dotnetInternTasks
+﻿using Task01TemperatureConverter;
+
+namespace dotnetInternTasks
 {
     class Program
     {
@@ -37,7 +39,7 @@
                     case '1':
                         Print(FitTitle("Task01: TemperatureConverter(Celsius to Fahrenheit)"));
                         Print("Tip: You need to enter the temperature in Celsius to convert it to Fahrenheit.\n");
-                        //TaskCycle(Task01TemperatureConverter);
+                        TaskCycle(TemperatureConverter.Run);
                         break;
                     case '2':
                         Print(FitTitle("Task02: Age Check"));
