@@ -2,6 +2,7 @@
 using Task02AgeCheck;
 using Task03MultiplicationTable;
 using Task04SumOfNumbersInRange;
+using Task05ShowInfoUsingClassBook;
 
 namespace dotnetInternTasks
 {
@@ -61,9 +62,9 @@ namespace dotnetInternTasks
                         TaskCycle(SumOfNumbersInRange.Run);
                         break;
                     case '5':
-                        Print(FitTitle("Task05: ClassBook"));
+                        Print(FitTitle("Task05: ShowInfoUsingClassBook"));
                         Print("Tip: You need to enter info about book in format: title, author, year.\n");
-                        //TaskCycle(Task05ClassBook);
+                        TaskCycle(ShowInfoUsingClassBook.Run);
                         break;
                     case '6':
                         Print(FitTitle("Task06: MinNumberOfArray"));
