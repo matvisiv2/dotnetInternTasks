@@ -4,6 +4,7 @@ using Task03MultiplicationTable;
 using Task04SumOfNumbersInRange;
 using Task05ShowInfoUsingClassBook;
 using Task06MinNumberOfArray;
+using Task07Calculator;
 
 namespace dotnetInternTasks
 {
@@ -75,7 +76,7 @@ namespace dotnetInternTasks
                     case '7':
                         Print(FitTitle("Task07: Calculator"));
                         Print("Tip: You need to enter mathematical expression like (a+b,a-b,a*b,a/b).\n");
-                        //TaskCycle(Task07Calculator);
+                        TaskCycle(Calculator.Run);
                         break;
                     case '8':
                         Print(FitTitle("Task08: ClassStudent"));

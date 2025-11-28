@@ -14,6 +14,7 @@
     <ProjectReference Include="..\Task04SumOfNumbersInRange\Task04SumOfNumbersInRange.csproj" />
     <ProjectReference Include="..\Task05ShowInfoUsingClassBook\Task05ShowInfoUsingClassBook.csproj" />
     <ProjectReference Include="..\Task06MinNumberOfArray\Task06MinNumberOfArray.csproj" />
+    <ProjectReference Include="..\Task07Calculator\Task07Calculator.csproj" />
   </ItemGroup>
 
 </Project>

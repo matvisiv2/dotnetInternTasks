@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task05ShowInfoUsingClassBoo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task06MinNumberOfArray", "Task06MinNumberOfArray\Task06MinNumberOfArray.csproj", "{B14FFF4C-59C2-40D6-8D8A-745FB883D602}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task07Calculator", "Task07Calculator\Task07Calculator.csproj", "{1C29D821-7137-48CA-865D-93D3DE60897E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{B14FFF4C-59C2-40D6-8D8A-745FB883D602}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B14FFF4C-59C2-40D6-8D8A-745FB883D602}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B14FFF4C-59C2-40D6-8D8A-745FB883D602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C29D821-7137-48CA-865D-93D3DE60897E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C29D821-7137-48CA-865D-93D3DE60897E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C29D821-7137-48CA-865D-93D3DE60897E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C29D821-7137-48CA-865D-93D3DE60897E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
