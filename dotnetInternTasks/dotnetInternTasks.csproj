@@ -11,6 +11,7 @@
     <ProjectReference Include="..\Task01TemperatureConverter\Task01TemperatureConverter.csproj" />
     <ProjectReference Include="..\Task02AgeCheck\Task02AgeCheck.csproj" />
     <ProjectReference Include="..\Task03MultiplicationTable\Task03MultiplicationTable.csproj" />
+    <ProjectReference Include="..\Task04SumOfNumbersInRange\Task04SumOfNumbersInRange.csproj" />
   </ItemGroup>
 
 </Project>

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task02AgeCheck", "Task02Age
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task03MultiplicationTable", "Task03MultiplicationTable\Task03MultiplicationTable.csproj", "{E05A5EDB-EF43-4964-89B9-A5FE75FD7506}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task04SumOfNumbersInRange", "Task04SumOfNumbersInRange\Task04SumOfNumbersInRange.csproj", "{9C10E9DC-481F-4BE7-827E-6ED88FB954C8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E05A5EDB-EF43-4964-89B9-A5FE75FD7506}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E05A5EDB-EF43-4964-89B9-A5FE75FD7506}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E05A5EDB-EF43-4964-89B9-A5FE75FD7506}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C10E9DC-481F-4BE7-827E-6ED88FB954C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C10E9DC-481F-4BE7-827E-6ED88FB954C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C10E9DC-481F-4BE7-827E-6ED88FB954C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C10E9DC-481F-4BE7-827E-6ED88FB954C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

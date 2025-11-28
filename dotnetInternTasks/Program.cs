@@ -1,6 +1,7 @@
 ﻿using Task01TemperatureConverter;
 using Task02AgeCheck;
 using Task03MultiplicationTable;
+using Task04SumOfNumbersInRange;
 
 namespace dotnetInternTasks
 {
@@ -57,7 +58,7 @@ namespace dotnetInternTasks
                         Print(FitTitle("Task04: SumOfNumbersInRange"));
                         Print("Tip: You need to enter two numbers separated by a comma sign to see the sum in their range.\n");
                         Print("Tip: start value must be less than end value.\n");
-                        //TaskCycle(Task04SumOfNumbersInRange);
+                        TaskCycle(SumOfNumbersInRange.Run);
                         break;
                     case '5':
                         Print(FitTitle("Task05: ClassBook"));
