@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Task01TemperatureConverter\Task01TemperatureConverter.csproj" />
+    <ProjectReference Include="..\Task02AgeCheck\Task02AgeCheck.csproj" />
   </ItemGroup>
 
 </Project>

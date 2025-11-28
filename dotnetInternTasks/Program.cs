@@ -1,4 +1,5 @@
 ﻿using Task01TemperatureConverter;
+using Task02AgeCheck;
 
 namespace dotnetInternTasks
 {
@@ -44,7 +45,7 @@ namespace dotnetInternTasks
                     case '2':
                         Print(FitTitle("Task02: Age Check"));
                         Print("Tip: You need to enter an age to see which age group the person belongs to.\n");
-                        //TaskCycle(Task02AgeCheck);
+                        TaskCycle(AgeCheck.Run);
                         break;
                     case '3':
                         Print(FitTitle("Task03: MultiplicationTable"));

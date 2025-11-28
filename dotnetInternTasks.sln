@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36705.20 d17.14
+VisualStudioVersion = 17.14.36705.20
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetInternTasks", "dotnetInternTasks\dotnetInternTasks.csproj", "{8388D36C-2949-4DB6-AD2A-CAE973F6F1FA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task01TemperatureConverter", "Task01TemperatureConverter\Task01TemperatureConverter.csproj", "{64DA8536-3EA4-411C-B9FE-E7B8BC500C2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task02AgeCheck", "Task02AgeCheck\Task02AgeCheck.csproj", "{5A7E9A5D-ADEC-438D-8F98-A3F00BF09B21}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{64DA8536-3EA4-411C-B9FE-E7B8BC500C2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64DA8536-3EA4-411C-B9FE-E7B8BC500C2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64DA8536-3EA4-411C-B9FE-E7B8BC500C2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A7E9A5D-ADEC-438D-8F98-A3F00BF09B21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7E9A5D-ADEC-438D-8F98-A3F00BF09B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7E9A5D-ADEC-438D-8F98-A3F00BF09B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7E9A5D-ADEC-438D-8F98-A3F00BF09B21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
