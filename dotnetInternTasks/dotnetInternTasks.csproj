@@ -13,6 +13,7 @@
     <ProjectReference Include="..\Task03MultiplicationTable\Task03MultiplicationTable.csproj" />
     <ProjectReference Include="..\Task04SumOfNumbersInRange\Task04SumOfNumbersInRange.csproj" />
     <ProjectReference Include="..\Task05ShowInfoUsingClassBook\Task05ShowInfoUsingClassBook.csproj" />
+    <ProjectReference Include="..\Task06MinNumberOfArray\Task06MinNumberOfArray.csproj" />
   </ItemGroup>
 
 </Project>

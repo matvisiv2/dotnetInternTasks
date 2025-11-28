@@ -3,6 +3,7 @@ using Task02AgeCheck;
 using Task03MultiplicationTable;
 using Task04SumOfNumbersInRange;
 using Task05ShowInfoUsingClassBook;
+using Task06MinNumberOfArray;
 
 namespace dotnetInternTasks
 {
@@ -69,7 +70,7 @@ namespace dotnetInternTasks
                     case '6':
                         Print(FitTitle("Task06: MinNumberOfArray"));
                         Print("Tip: You need to enter numbers separated by commas or just press enter to autogenerate an array.\n");
-                        //TaskCycle(Task06MinNumberOfArray);
+                        TaskCycle(MinNumberOfArray.Run);
                         break;
                     case '7':
                         Print(FitTitle("Task07: Calculator"));
