@@ -1,5 +1,6 @@
 ﻿using Task01TemperatureConverter;
 using Task02AgeCheck;
+using Task03MultiplicationTable;
 
 namespace dotnetInternTasks
 {
@@ -50,7 +51,7 @@ namespace dotnetInternTasks
                     case '3':
                         Print(FitTitle("Task03: MultiplicationTable"));
                         Print("Tip: You need to enter some number to see its multiplication table.\n");
-                        //TaskCycle(Task03MultiplicationTable);
+                        TaskCycle(MultiplicationTable.Run);
                         break;
                     case '4':
                         Print(FitTitle("Task04: SumOfNumbersInRange"));

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task01TemperatureConverter"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task02AgeCheck", "Task02AgeCheck\Task02AgeCheck.csproj", "{5A7E9A5D-ADEC-438D-8F98-A3F00BF09B21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task03MultiplicationTable", "Task03MultiplicationTable\Task03MultiplicationTable.csproj", "{E05A5EDB-EF43-4964-89B9-A5FE75FD7506}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5A7E9A5D-ADEC-438D-8F98-A3F00BF09B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A7E9A5D-ADEC-438D-8F98-A3F00BF09B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A7E9A5D-ADEC-438D-8F98-A3F00BF09B21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E05A5EDB-EF43-4964-89B9-A5FE75FD7506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E05A5EDB-EF43-4964-89B9-A5FE75FD7506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E05A5EDB-EF43-4964-89B9-A5FE75FD7506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E05A5EDB-EF43-4964-89B9-A5FE75FD7506}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
